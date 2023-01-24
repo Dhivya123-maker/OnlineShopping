@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OnlineShopping</string>
+    <string name="removed_item">Removed %1$s</string>
+    <string name="list_total_count">Total Items : %1$d</string>
+    <string name="undo_remove">%1$s is back in the list</string>
+    <string name="undo_link">Undo</string>
+    <string name="decrement_quantity">Decrement quantity</string>
+    <string name="increment_quantity">Increment quantity</string>
+</resources>
